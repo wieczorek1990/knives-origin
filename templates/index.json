@@ -1,1 +1,206 @@
-{"sections":{"rich-text":{"type":"rich-text","blocks":{"heading":{"type":"heading","settings":{"heading":"Spyderco products","heading_size":"hxl"}}},"block_order":["heading"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"scheme-1","full_width":false,"padding_top":40,"padding_bottom":60}},"featured-product":{"type":"featured-product","blocks":{"title":{"type":"title","settings":{"heading_size":"h2"}},"price":{"type":"price","settings":{}},"text":{"type":"text","settings":{"text":"I will survive! This miniature knife can be helpful on every survival mission. Suits well as a small pocket knife.","text_style":"subtitle"}},"variant_picker":{"type":"variant_picker","settings":{"picker_type":"button","swatch_shape":"circle"}},"buy_buttons":{"type":"buy_buttons","settings":{"show_dynamic_checkout":true,"show_gift_card_recipient":true}},"share":{"type":"share","settings":{"share_label":"Share"}}},"block_order":["title","price","text","variant_picker","buy_buttons","share"],"settings":{"product":"spyderco-ambitious-c148gp","color_scheme":"scheme-1","secondary_background":false,"media_size":"medium","constrain_to_viewport":true,"media_fit":"contain","media_position":"left","image_zoom":"lightbox","hide_variants":false,"enable_video_looping":true,"padding_top":32,"padding_bottom":48}},"image-banner":{"type":"image-banner","settings":{"image":"shopify:\/\/shop_images\/Lake.jpg","image_overlay_opacity":0,"image_height":"small","image_behavior":"none","desktop_content_position":"middle-center","desktop_content_alignment":"center","show_text_box":true,"color_scheme":"scheme-1","stack_images_on_mobile":true,"mobile_content_alignment":"center","show_text_below":true}},"rich-text-1":{"type":"rich-text","blocks":{"text":{"type":"text","settings":{"text":""}},"heading":{"type":"heading","settings":{"heading":"","heading_size":"h0"}}},"block_order":["text","heading"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"scheme-3","full_width":true,"padding_top":40,"padding_bottom":20}},"multicolumn":{"type":"multicolumn","blocks":{"column":{"type":"column","settings":{"title":"So sharp","text":"","link_label":"","link":""}},"column-1":{"type":"column","settings":{"title":"Opens easily","text":"","link_label":"","link":""}},"column-2":{"type":"column","settings":{"title":"Small","text":"","link_label":"","link":""}}},"block_order":["column","column-1","column-2"],"settings":{"title":"","heading_size":"h1","image_width":"full","image_ratio":"adapt","button_label":"","button_link":"","columns_desktop":3,"column_alignment":"left","background_style":"none","color_scheme":"scheme-3","columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}}},"order":["rich-text","featured-product","image-banner","rich-text-1","multicolumn"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "rich-text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Spyderco products",
+            "heading_size": "hxl"
+          }
+        }
+      },
+      "block_order": [
+        "heading"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-1",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 60
+      }
+    },
+    "featured-product": {
+      "type": "featured-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h2"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "I will survive! This miniature knife can be helpful on every survival mission. Suits well as a small pocket knife.",
+            "text_style": "subtitle"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "text",
+        "variant_picker",
+        "buy_buttons",
+        "share"
+      ],
+      "settings": {
+        "product": "spyderco-ambitious-c148gp",
+        "color_scheme": "scheme-2",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": true,
+        "padding_top": 32,
+        "padding_bottom": 48
+      }
+    },
+    "image-banner": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/Lake.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "scheme-1",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "rich-text-1": {
+      "type": "rich-text",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "text",
+        "heading"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 20
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column": {
+          "type": "column",
+          "settings": {
+            "title": "So sharp",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Opens easily",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column-2": {
+          "type": "column",
+          "settings": {
+            "title": "Small",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column",
+        "column-1",
+        "column-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "color_scheme": "scheme-3",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "rich-text",
+    "featured-product",
+    "image-banner",
+    "rich-text-1",
+    "multicolumn"
+  ]
+}
